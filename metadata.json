@@ -1,0 +1,5 @@
+{
+  "name": "AgriVision AI: Plant Disease Detector",
+  "description": "An AI-powered tool for farmers and gardeners to identify plant diseases from images. Upload a photo of a plant leaf, and our AI will analyze it to detect potential diseases, suggest treatments, and provide preventative care tips.",
+  "requestFramePermissions": []
+}
